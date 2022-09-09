@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Talmage",
+        "lastName": "Bergeson",
+        "email": "talmageb@example.com",
+        "age": "20"
+    },
+    {
+        "firstName": "Brenda",
+        "lastName": "Williams",
+        "email": "brendaw@example.com",
+        "age": "34"
+    },
+    {
+        "firstName": "Bobby",
+        "lastName": "Lee",
+        "email": "bobbylee@example.com",
+        "age": "28"
+    },
+    {
+        "firstName": "Will",
+        "lastName": "Pharrell",
+        "email": "willyp@example.com",
+        "age": "45"
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Hart",
+        "email": "kevinh@example.com",
+        "age": "12"
+    },
+    {
+        "firstName": "Ice",
+        "lastName": "Cube",
+        "email": "icycube@example.com",
+        "age": "34"
+    },
+    {
+        "firstName": "Johnny",
+        "lastName": "Depp",
+        "email": "imapirate@example.com",
+        "age": "55"
+    },
+    {
+        "firstName": "Rosa",
+        "lastName": "Parks",
+        "email": "rparks@example.com",
+        "age": "113"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Hancock",
+        "email": "johnhancock@example.com",
+        "age": "340"
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Griffin",
+        "email": "pg@example.com",
+        "age": "54"
+    }
+]
