@@ -1,0 +1,77 @@
+.content-logo{
+    font-size: 2rem;
+    padding: 25px;
+}
+
+.content-info{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.content-header{
+    letter-spacing: .1rem;
+    line-height: 1px;
+}
+.content-form{
+    width: 100%;
+}
+
+.content-form span{
+    width: 100%;
+    display: flex;
+}
+.form-element{
+    display: inline-block;
+    flex-grow: 1;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.form-element label {
+    font-size: 0.8rem;
+    color: black;
+    margin-bottom: 5px;
+    display: block;
+}
+.form-element .input-field{
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.368);
+    margin: 1px;
+    border-radius: 2px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+
+.form-element .email-error{
+    border: 2px solid red;
+    margin: 0;
+}
+
+.form-element-email{
+    width: 300px;
+}
+
+.form-element-email-solo{
+    width: 375px;
+}
+
+.email-error-message{
+    color: white;
+    text-align: center;
+    line-height: 0;
+}
+.activated{color: red}
+
+.submit-button{
+    margin-top: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    padding: 20px;
+    letter-spacing: .1rem;
+    transition: all .5s;
+}
+.submit-button:hover{
+    color: black;
+    background-color: white;
+    transform: scale(1.03);
+}
